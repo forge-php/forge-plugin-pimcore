@@ -1,0 +1,12 @@
+{
+    "name": "forge/plugin-pimcore",
+    "description": "Pimcore plugin for Forge CLI",
+    "autoload": {
+        "psr-4": {
+            "Forge\\Plugins\\Pimcore\\": "src"
+        }
+    },
+    "require": {
+
+    }
+}
