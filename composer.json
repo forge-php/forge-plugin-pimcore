@@ -1,5 +1,5 @@
 {
-    "name": "forge/plugin-pimcore",
+    "name": "forge-php/plugin-pimcore",
     "description": "Pimcore plugin for Forge CLI",
     "autoload": {
         "psr-4": {
